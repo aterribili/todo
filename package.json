@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "A simple to do list built using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Abner Terribili <abner.terribili@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0"
+  }
+}
