@@ -9,6 +9,9 @@
   "author": "Abner Terribili <abner.terribili@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.0"
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "multer": "^1.1.0"
   }
 }
